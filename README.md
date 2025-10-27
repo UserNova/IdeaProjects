@@ -10,3 +10,7 @@ TP5 :
 
 <img width="1160" height="820" alt="Capture d'écran 2025-10-21 225734" src="https://github.com/user-attachments/assets/9d1b17c1-3b1d-4e40-83c0-d16564bf1fba" />
 <img width="1088" height="133" alt="Capture d'écran 2025-10-21 225850" src="https://github.com/user-attachments/assets/8b1c3e86-bf7e-4e73-a131-dbef58e6d59a" />
+
+TP : Spring Boot et Thymeleaf 
+<img width="831" height="840" alt="Capture d'écran 2025-10-22 130135" src="https://github.com/user-attachments/assets/8ab5ba38-a4eb-4fc0-8739-03e750d2b36a" />
+<img width="805" height="309" alt="image" src="https://github.com/user-attachments/assets/b9746527-0717-4e6c-8560-bd64c8725320" />
