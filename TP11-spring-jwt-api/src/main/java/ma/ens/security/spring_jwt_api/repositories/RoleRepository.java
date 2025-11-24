@@ -1,0 +1,10 @@
+package ma.ens.security.spring_jwt_api.repositories;
+
+import ma.ens.security.spring_jwt_api.entities.Role;
+import org.springframework.data.jpa.repository.JpaRepository;
+import java.util.Optional;
+
+
+public interface RoleRepository extends JpaRepository<Role, Long> {
+    Optional<Role> findByName(String name);
+}
