@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28ee6549-94a5-424b-bfd4-dac5a9344a9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/IDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Salle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/MachineService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/SalleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/MachineServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/SalleServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate1/src/main/java/com/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate1/src/test/java/com/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../benchmark/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../benchmark/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../benchmark/src/main/java/com/example/Benchmark/controller/CategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../benchmark/src/main/java/com/example/Benchmark/controller/ItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../benchmark/src/main/java/com/example/Benchmark/dao/CategoryDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../benchmark/src/main/java/com/example/Benchmark/dao/ItemDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../benchmark/src/main/java/com/example/Benchmark/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../benchmark/src/main/java/com/example/Benchmark/entity/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../benchmark/src/main/java/com/example/Benchmark/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../benchmark/src/main/java/com/example/Benchmark/service/ItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../benchmark/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +34,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AppTest.executor": "Run",
+    "JUnit.MachineServiceTest.executor": "Run",
+    "JUnit.SalleServiceTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.Hibernate [clean].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
