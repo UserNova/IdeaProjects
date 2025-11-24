@@ -17,9 +17,13 @@ Cette approche correspond aux pratiques modernes utilisées dans les architectur
 # Test et validation :
 
 1- Lancer l’application.
+
 2- Accéder à http://localhost:8080/profile.
+
 3- Le système redirige automatiquement vers la page de connexion Google ou Keycloak.
+
 4- Après authentification, la page profile.html affiche le nom, l’email et la photo.
+
 
 # DEMO : 
 
@@ -30,3 +34,4 @@ Cette approche correspond aux pratiques modernes utilisées dans les architectur
 
 Ce TP permet de comprendre comment externaliser l’authentification d’une application Spring Boot tout en maintenant une sécurité robuste et standardisée.
 Grâce à OAuth2 et OpenID Connect, l’application ne gère plus directement les identifiants utilisateurs : elle délègue cette responsabilité à un fournisseur de confiance, améliorant ainsi la sécurité, la scalabilité et la conformité de l’ensemble du système.
+
