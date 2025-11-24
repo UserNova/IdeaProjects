@@ -1,5 +1,6 @@
 # Objectif :
 L’objectif de ce TP est de comprendre comment déléguer l’authentification d’une application Spring Boot à un fournisseur externe tel que Google ou Keycloak en utilisant le protocole OAuth2 et la norme OpenID Connect (OIDC).
+
 L’utilisateur ne s’authentifie plus directement auprès de l’application, mais auprès d’un service d’identité de confiance, qui délivre un token d’accès (Access Token) et un token d’identité (ID Token).
 
 Cette approche correspond aux pratiques modernes utilisées dans les architectures distribuées, les API sécurisées, et les systèmes Single Sign-On (SSO).
@@ -33,5 +34,7 @@ Cette approche correspond aux pratiques modernes utilisées dans les architectur
 # Conclusion : 
 
 Ce TP permet de comprendre comment externaliser l’authentification d’une application Spring Boot tout en maintenant une sécurité robuste et standardisée.
+
 Grâce à OAuth2 et OpenID Connect, l’application ne gère plus directement les identifiants utilisateurs : elle délègue cette responsabilité à un fournisseur de confiance, améliorant ainsi la sécurité, la scalabilité et la conformité de l’ensemble du système.
+
 
